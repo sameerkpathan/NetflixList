@@ -18,14 +18,14 @@ const Sdata = [
         imgscr:"https://wallpapercave.com/wp/wp1917154.jpg",
       title:"stranger things",
       sname:"A netflix original series",
-      link:"https://www.netflix.com/in/title/80990668?source=35"
+      links:"https://www.netflix.com/in/title/80990668?source=35"
     },
 
     {
         sname:"the vampire diaries",
         imgscr:"https://images.justwatch.com/poster/8589251/s592",
       title:"A netflix original series",
-      link:"https://www.netflix.com/in/title/80990668?source=35"
+      links:"https://www.netflix.com/in/title/80990668?source=35"
     },
 
     {
