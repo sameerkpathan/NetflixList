@@ -21,7 +21,7 @@ ReactDom.render(
       imgscr={value.imgscr}
       title={value.title}
       sname = {value.sname}
-      link={value.link}
+      link={value.links}
   />
      );
  })}
